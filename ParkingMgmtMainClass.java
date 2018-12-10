@@ -87,9 +87,6 @@ public class ParkingMgmtMainClass {
 			}
 
 		}
-		if(map.size() < 10){
-			
-		}
 		return map;
 	}
 }
